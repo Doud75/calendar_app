@@ -2,6 +2,7 @@
     "background_color": "white",
     "description": "calendar",
     "display": "fullscreen",
+    "theme_color": "black",
     "icons": [
         {
         "src": "icons/cookies.png",
