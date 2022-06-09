@@ -1,0 +1,15 @@
+{
+    "background_color": "white",
+    "description": "calendar",
+    "display": "fullscreen",
+    "icons": [
+        {
+        "src": "icons/cookies.png",
+        "sizes": "192x192",
+        "type": "image/png"
+        }
+    ],
+    "name": "Doud calendar",
+    "short_name": "Doud's",
+    "start_url": "/index.html"
+}
